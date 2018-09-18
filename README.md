@@ -23,7 +23,7 @@ Choose the download for your OS version.
 Be sure to choose the download for CUDA 9.0 and for your Operating System
 Membership registration is required.
 
-<p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cuDNN_windows_download.png"></p>
+<p align="center"><img width=70% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/cudnn-download.png"></p>
 
 Put your unzipped folder in C drive as follows: 
 ```Command Prompt
