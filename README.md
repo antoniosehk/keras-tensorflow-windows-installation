@@ -83,6 +83,10 @@ python mnist_mlp.py
 ```
 Congratulations ! You have successfully run Keras (with Tensorflow backend) over GPU on Windows !
 
-<p align="left"><img width=100% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/installation_success_v2.png"></p>
+<p align="left"><img width=100% src="https://github.com/antoniosehk/keras-tensorflow-windows-installation/blob/master/installation_success_v2.png"></p>  
+
+In the event that you get a tensorflow Attribute error, ensure you do the following then try again:  
+
+`conda install -c anaconda tensorflow-estimator=2.1`
 
 ### Step 10: Done !
